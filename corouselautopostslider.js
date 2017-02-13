@@ -1,4 +1,4 @@
-var numpostx = 10,
+var numpostx = 6,
 thumbSize = 110,
 contjumlah = 0,
 cmtext = "Comments",
